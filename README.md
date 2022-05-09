@@ -1,2 +1,1 @@
-# cpspartymod
-\na cookie clicker cps mod yay
+# A clicker game that I found in the template for Vue.js
