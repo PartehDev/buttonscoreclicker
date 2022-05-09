@@ -1,1 +1,1 @@
-# A clicker game that I found in the template for Vue.js, and remade in x86 assembly for Windows Vista and up (might not work on Windows XP)
+# A clicker game that kinda rips off Cookie Clicker except with a rock and a hammer
